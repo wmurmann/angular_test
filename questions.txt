@@ -1,0 +1,9 @@
+Do you find the code to be simpler when using AngularJS? If so, how? If not, why?
+	No, but thats becasue im not as familiar as I am with jquery.
+
+Would a beginner to front-end development find the code to be simpler? Why or why not?
+	I don't think a beginer would have an easy time with it. I think jquery has an easier learing curve even though its more
+    verbose.
+
+How might the structure provided by AngularJS simplify building larger web applications?
+	It less verbose than jquery and seems more object oriented so it would help cutting down the code and making it concise.
